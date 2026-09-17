@@ -1,0 +1,7 @@
+.top-avatar {
+  font-size: 0 !important;
+  color: transparent !important;
+  background-image: url('../Resources/pic.jpeg') !important;
+  background-size: cover !important;
+  background-position: center !important;
+}
